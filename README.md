@@ -52,7 +52,41 @@
     LIMIT 2000
     ```
 3. Execute the query with Results Format in **CSV**
-4. Save as ```/res/dbpedia.csv```
+4. Save as ```res/dbpedia.csv```
+
+#### Setup Silk framework and linking
+
+1. Run via Docker
+   ```shell
+   docker run -d --name silk-workbench -p 80:80 silkworkbench/silk-framework
+   ```
+2. Open the workbench on browser at http://localhost
+3. Import project from ```res/silk_project.zip```
+4. Upload new data
+5. Run linking execution
+6. Download the output data and save as ```res/linked_output_raw.nt```
+7. The output should be URI encoded so have to be decoded:
+   ```shell
+   py src/decode_uri_ntriples.py
+   ```
+   Enter the input path: ```res/linked_output_raw.nt```
+
+   Enter the output path: ```res/linked_output.nt```
+
+### Setup Jena Fuseki
+
+1. Run via Docker
+   ```shell
+   docker run -d --name fuseki -p 3030:3030 -e ADMIN_PASSWORD=admin stain/jena-fuseki
+   ```
+2. Open the UI on browser at http://localhost:3030
+3. Create new dataset
+4. Import 3 files:
+    - ontology: ```res/smartphone.owl.xml```
+    - instances data: ```res/smartphone.rdf```
+    - links: ```res/linked_output.nt```
+
+5. Go to query section for querying
 
 ## SPARQL queries example
 
