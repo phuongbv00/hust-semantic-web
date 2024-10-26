@@ -12,7 +12,7 @@
 
 ## Setup
 
-### Data process
+### Data processing
 
 ### Open data linking (5 stars)
 
