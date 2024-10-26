@@ -62,7 +62,9 @@
    ```
 2. Open the workbench on browser at http://localhost
 3. Import project from ```res/silk_project.zip```
-4. Upload new data
+4. Upload new data for datasets (optional, because zip file already contains these resources)
+    - source: ```res/smartphone.csv``` (converted from ```res/smartphone.rdf```)
+    - target: ```res/dbpedia.csv```
 5. Run linking execution
 6. Download the output data and save as ```res/linked_output_raw.nt```
 7. The output should be URI encoded so have to be decoded:
