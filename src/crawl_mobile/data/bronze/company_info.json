@@ -1,0 +1,30 @@
+{
+    "Apple": {
+        "country": "United States",
+        "foundDate": "1976-04-01"
+    },
+    "LG": {
+        "country": "South Korea",
+        "foundDate": "1947-10-01"
+    },
+    "Xiaomi": {
+        "country": "China",
+        "foundDate": "2010-04-06"
+    },
+    "Nokia": {
+        "country": "Finland",
+        "foundDate": "1865-05-12"
+    },
+    "Google": {
+        "country": "United States",
+        "foundDate": "1998-09-04"
+    },
+    "Huawei": {
+        "country": "China",
+        "foundDate": "1987-09-15"
+    },
+    "Samsung": {
+        "country": "South Korea",
+        "foundDate": "1938-03-01"
+    }
+}

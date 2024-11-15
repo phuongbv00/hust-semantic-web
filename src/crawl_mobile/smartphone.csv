@@ -1,0 +1,815 @@
+uri,product_name
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_se_11,MatePad SE 11
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_70,Enjoy 70
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v50s_thinq_5g,V50S ThinQ 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_xr,iPhone XR
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p60_art,P60 Art
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2_v_tella,2 V Tella
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_11_se,nova 11 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y90,nova Y90
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_active3,Galaxy Tab Active3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k60,Redmi K60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylo_2,Stylo 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a34,Galaxy A34
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#13,13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_max,X max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_15_pro,iPhone 15 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k41s,K41S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k8__2018_,K8 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_11i,nova 11i
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a53_5g,Galaxy A53 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m55s,Galaxy M55s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s24_,Galaxy S24+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2780_flip,2780 Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pad_6_pro,Pad 6 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s9_fe,Galaxy Tab S9 FE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_14_pro,iPhone 14 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#7_1,7.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#7,7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105_dual_sim__2015_,105 Dual SIM (2015)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone,iPhone
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x5,X5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k50_pro,Redmi K50 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_7,Pixel 7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2720_v_flip,2720 V Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_6_pro,Pixel 6 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s22_ultra_5g,Galaxy S22 Ultra 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_11__2024_,iPad Pro 11 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s24_ultra,Galaxy S24 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p30_pro_new_edition,P30 Pro New Edition
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_c50,Poco C50
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_t_10s,MatePad T 10s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12,nova 12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2760_flip,2760 Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_15_pro_max,iPhone 15 Pro Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#13t_pro,13T Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c21,C21
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_a7_10_4__2020_,Galaxy Tab A7 10.4 (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g4c,G4c
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_active4_pro,Galaxy Tab Active4 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5710_xpressaudio,5710 XpressAudio
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_10_2__2019_,iPad 10.2 (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f05,Galaxy F05
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11t_pro,Redmi Note 11T Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#velvet_5g_uw,Velvet 5G UW
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k60_ultra,Redmi K60 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_x6_neo,Poco X6 Neo
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_11_ultra,nova 11 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#106__2018_,106 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f55,Galaxy F55
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m02,Galaxy M02
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#130__2017_,130 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_9_pro_fold,Pixel 9 Pro Fold
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_2_xl,Pixel 2 XL
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_20_pro,Enjoy 20 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_c,Pixel C
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40e,Mate 40E
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_3gs,iPhone 3GS
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q_stylo_4,Q Stylo 4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#222,222
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#1_4,1.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k5,K5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#14,14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c300,C300
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_50,Mate 50
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p50e,P50E
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a3x,Redmi A3x
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_x5,Poco X5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_4,iPhone 4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11_pro__5g,Redmi Note 11 Pro+ 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_f4_gt,Poco F4 GT
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p60_pro,P60 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini_wi_fi,iPad mini Wi-Fi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_8a,Pixel 8a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#civi_3,Civi 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_x2_4g,Mate X2 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#12_pro__dimensity_,12 Pro (Dimensity)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_a7_10_4__2022_,Galaxy Tab A7 10.4 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2_4,2.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5_1_plus__nokia_x5_,5.1 Plus (Nokia X5)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_3g,iPhone 3G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8_sirocco,8 Sirocco
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c2_2nd_edition,C2 2nd Edition
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g50,G50
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s9_ultra,Galaxy Tab S9 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m15,Galaxy M15
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_12_5g,Redmi 12 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k10__2018_,K10 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#aristo_2,Aristo 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pura_70_ultra,Pura 70 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_c40,Poco C40
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mix_fold_4,Mix Fold 4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_11__2021_,iPad Pro 11 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_flip,nova Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13_4g,Redmi Note 13 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m13,Galaxy M13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8_pro_5g,nova 8 Pro 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_11__2020_,iPad Pro 11 (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#14_ultra,14 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105__2017_,105 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g7_one,G7 One
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_12,Redmi 12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#aka,AKA
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k50,Redmi K50
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f42_5g,Galaxy F42 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11se,Redmi Note 11SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_pro_,Redmi Note 12 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g11_plus,G11 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40_rs_porsche_design,Mate 40 RS Porsche Design
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_9_se_5g,nova 9 SE 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m54,Galaxy M54
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air__2020_,iPad Air (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_14_pro_,Redmi Note 14 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_11_5,MatePad 11.5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_10_4,MatePad 10.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k60_pro,Redmi K60 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_air,MatePad Air
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m62,Galaxy M62
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c32,C32
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_60_rs_ultimate,Mate 60 RS Ultimate
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v60_thinq_5g,V60 ThinQ 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k31,K31
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s8,Galaxy Tab S8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s24,Galaxy S24
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a54,Galaxy A54
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5310__2020_,5310 (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s22_5g,Galaxy S22 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f34,Galaxy F34
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#150__2023_,150 (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a2,Redmi A2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_pad_pro_5g,Redmi Pad Pro 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#tribute_2,Tribute 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_c61,Poco C61
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mix_flip,Mix Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w41_pro,W41 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_t_10,MatePad T 10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g100,G100
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_x_8_0,G Pad X 8.0
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12_lite,nova 12 Lite
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6_1_plus__nokia_x6_,6.1 Plus (Nokia X6)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s9,Galaxy Tab S9
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a72,Galaxy A72
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_9_pro,Pixel 9 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_20_se,Enjoy 20 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_5_10_1,G Pad 5 10.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_60_pro_,Mate 60 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q52,Q52
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#f60,F60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_xs_2,Mate Xs 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#225_4g__2024_,225 4G (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c2_tennen,C2 Tennen
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#velvet,Velvet
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m35,Galaxy M35
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_16_pro_max,iPhone 16 Pro Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#lumia_638,Lumia 638
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#14t_pro,14T Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#210,210
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v10,V10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_14,Redmi Note 14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_30e_pro_5g,Mate 30E Pro 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_14_plus,iPhone 14 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8_3_5g,8.3 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#9_pureview,9 PureView
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#y9a,Y9a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11t_pro_,Redmi Note 11T Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12r_pro,Redmi Note 12R Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5,5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a02,Galaxy A02
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_pad,Redmi Pad
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air_11__2024_,iPad Air 11 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m42_5g,Galaxy M42 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k10__2017_,K10 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_11_5_s,MatePad 11.5 S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#magna,Magna
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w11,W11
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12s,Redmi Note 12S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w31,W31
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_8,Pixel 8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_a7_lite,Galaxy Tab A7 Lite
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#xr21,XR21
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#12s_ultra,12S Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_9_pro,nova 9 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_10_2__2020_,iPad 10.2 (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#civi_2,Civi 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_13_mini,iPhone 13 mini
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y72,nova Y72
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a52_5g,Galaxy A52 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#leon,Leon
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s23_ultra,Galaxy S23 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini__2021_,iPad mini (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q60,Q60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_xs,iPhone XS
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_11_prime_5g,Redmi 11 Prime 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_c55,Poco C55
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#y8p,Y8p
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_mach,X mach
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m14_4g,Galaxy M14 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_v,3 V
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_skin,X Skin
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_flex2,G Flex2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_60x,Enjoy 60X
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_3a_xl,Pixel 3a XL
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_16,iPhone 16
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_ii_8_3_lte,G Pad II 8.3 LTE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_f5,Poco F5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f52_5g,Galaxy F52 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_t8,MatePad T8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_50_pro,Mate 50 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k11_plus,K11 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#wing_5g,Wing 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a73_5g,Galaxy A73 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f13,Galaxy F13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a12,Galaxy A12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_pad_se_8_7,Redmi Pad SE 8.7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a04,Galaxy A04
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s21_fe_5g,Galaxy S21 FE 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_60,Mate 60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s23_,Galaxy S23+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6_1,6.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w10_alpha,W10 Alpha
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_50z,Enjoy 50z
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m34_5g,Galaxy M34 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a16_5g,Galaxy A16 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_x6_pro,Poco X6 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_flip3_5g,Galaxy Z Flip3 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_20e,Enjoy 20e
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#joy,Joy
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c5_endi,C5 Endi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k70e,Redmi K70E
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_2_wi_fi___3g,iPad 2 Wi-Fi + 3G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2_1,2.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p50_pro,P50 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105__2015_,105 (2015)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_9_7__2017_,iPad 9.7 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_11__2021_,MatePad 11 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x100,X100
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y60,nova Y60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s6_lite__2024_,Galaxy Tab S6 Lite (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_20_plus_5g,Enjoy 20 Plus 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_4_wi_fi,iPad 4 Wi-Fi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c1_plus,C1 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_8,iPhone 8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_10_se,nova 10 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k50_ultra,Redmi K50 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_1,3.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#1_3,1.3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v60_thinq_5g_uw,V60 ThinQ 5G UW
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c110,C110
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_se__2022_,iPhone SE (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#y6p,Y6p
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_4,3.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m5__india_,Poco M5 (India)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#13_pro,13 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#13_ultra,13 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_13,Redmi 13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q61,Q61
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_venture,X venture
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s8_,Galaxy Tab S8+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_f6_pro,Poco F6 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p40_pro_,P40 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g4,G4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#14_civi,14 Civi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_14r,Redmi 14R
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a52,Galaxy A52
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m14,Galaxy M14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q51,Q51
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a55,Galaxy A55
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c210,C210
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#civi_4_pro,Civi 4 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m4_5g,Poco M4 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m6_plus,Poco M6 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c2,C2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#230_dual_sim,230 Dual SIM
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s20_fe_2022,Galaxy S20 FE 2022
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a15_5g,Galaxy A15 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_wi_fi,iPad Wi-Fi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#1,1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g60,G60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q7,Q7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air_13__2024_,iPad Air 13 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a12_nacho,Galaxy A12 Nacho
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mix_fold_3,Mix Fold 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m02s,Galaxy M02s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11s_5g,Redmi Note 11S 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8,8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k22,K22
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k70,Redmi K70
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_10_prime_2022,Redmi 10 Prime 2022
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mix_fold_2,Mix Fold 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel,Pixel
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_pad,Poco Pad
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_5,iPhone 5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#110__2023_,110 (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_power,X power
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#110_4g__2023_,110 4G (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_3,Pixel 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_2,3.2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g20,G20
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_10_4__2022_,MatePad 10.4 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8110_4g,8110 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c01_plus,C01 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pura_70,Pura 70
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#black_shark_5_rs,Black Shark 5 RS
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_14_pro_max,iPhone 14 Pro Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a15,Galaxy A15
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m52_5g,Galaxy M52 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_pro_12_2__2024_,MatePad Pro 12.2 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m55,Galaxy M55
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s6_lite__2022_,Galaxy Tab S6 Lite (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g3_screen,G3 Screen
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_13_pro_max,iPhone 13 Pro Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105__2023_,105 (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f14,Galaxy F14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c31,C31
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_style,X style
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a05,Galaxy A05
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_pro_12_6__2021_,MatePad Pro 12.6 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8210_4g,8210 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w41,W41
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f54,Galaxy F54
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_z_5g,Enjoy Z 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_active5,Galaxy Tab Active5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c12_plus,C12 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_a9_,Galaxy Tab A9+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_11_prime,Redmi 11 Prime
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_pad_5g,Poco Pad 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_9,nova 9
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a35,Galaxy A35
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v50_thinq_5g,V50 ThinQ 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11_se__india_,Redmi Note 11 SE (India)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#bello_ii,Bello II
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5_4,5.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f12,Galaxy F12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_12_x,MatePad 12 X
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_pro_4g,Redmi Note 12 Pro 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_13r,Redmi 13R
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_9_7__2016_,iPad Pro 9.7 (2016)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_12_9__2020_,iPad Pro 12.9 (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a1,Redmi A1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_4s,iPhone 4s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12,Redmi Note 12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_7_se_5g_youth,nova 7 SE 5G Youth
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_5a_5g,Pixel 5a 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_xcover6_pro,Galaxy XCover6 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_xs_max,iPhone XS Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_11r,Redmi Note 11R
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g22,G22
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_20_5g,Enjoy 20 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x4_,X4+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c20_plus,C20 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_turbo_3,Redmi Turbo 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13r_pro,Redmi Note 13R Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v30,V30
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_10_power,Redmi 10 Power
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m05,Galaxy M05
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_14c,Redmi 14C
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_1_c,3.1 C
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_13,iPhone 13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s8_ultra,Galaxy Tab S8 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m6_4g,Poco M6 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_fold3_5g,Galaxy Z Fold3 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_vista_2,G Vista 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m22,Galaxy M22
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#zero,Zero
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a13_5g,Galaxy A13 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g21,G21
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#7_plus,7 plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_12_mini,iPhone 12 mini
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105__2024_,105 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a03_core,Galaxy A03 Core
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_xt_ultimate,Mate XT Ultimate
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k3,K3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#harmony,Harmony
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y61,nova Y61
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#13_lite,13 Lite
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6310__2024_,6310 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_7_pro,Pixel 7 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m6_pro_5g,Poco M6 Pro 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#zone_4,Zone 4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105__2022_,105 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3210,3210
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#t21,T21
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g360,G360
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_x,iPhone X
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_11_pro,iPhone 11 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_fold6,Galaxy Z Fold6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_3_xl,Pixel 3 XL
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s10_,Galaxy Tab S10+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_5s,iPhone 5s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_4a,Pixel 4a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_12,iPhone 12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_quantum_2,Galaxy Quantum 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_9_7__2018_,iPad 9.7 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylus_2,Stylus 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k40s,K40S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_7_plus,iPhone 7 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#black_shark_5_pro,Black Shark 5 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40_pro_4g,Mate 40 Pro 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_x3,Mate X3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y91,nova Y91
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_x4_gt,Poco X4 GT
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6310__2021_,6310 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#1_plus,1 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k40,K40
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k8,K8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_a9,Galaxy Tab A9
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#y8s,Y8s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a03s,Galaxy A03s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad__2022_,iPad (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q92_5g,Q92 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_10a,Redmi 10A
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_c5e,MatePad C5e
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k51s,K51S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f22,Galaxy F22
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#106__2023_,106 (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x10,X10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_f6,Poco F6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m6_pro,Poco M6 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_10_pro,nova 10 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g8s_thinq,G8S ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y71,nova Y71
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g400,G400
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g10,G10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s23,Galaxy S23
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c1,C1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_12_9__2018_,iPad Pro 12.9 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air__2022_,iPad Air (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m12__india_,Galaxy M12 (India)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_10_8,MatePad 10.8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#150,150
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#110__2019_,110 (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v40_thinq,V40 ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_pro_11__2024_,MatePad Pro 11 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g350,G350
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylus_3,Stylus 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k20__2019_,K20 (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q6,Q6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_3_wi_fi___cellular,iPad 3 Wi-Fi + Cellular
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_pro_13_2,MatePad Pro 13.2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x20,X20
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_11_pro,nova 11 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v30s_thinq,V30S ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a2_,Redmi A2+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k10,K10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m21s,Galaxy M21s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_9,Pixel 9
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#230,230
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f04,Galaxy F04
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8_5g,nova 8 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8000_4g,8000 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g11,G11
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13_pro_,Redmi Note 13 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c12,C12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_pro_11__2022_,MatePad Pro 11 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_4g,Redmi Note 12 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f23,Galaxy F23
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_x2,Mate X2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_xcover_5,Galaxy XCover 5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g300,G300
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m23,Galaxy M23
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_tablet,Pixel Tablet
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s10_ultra,Galaxy Tab S10 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a42_5g,Galaxy A42 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s9_fe_,Galaxy Tab S9 FE+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s22__5g,Galaxy S22+ 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8_se_4g,nova 8 SE 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g4_stylus,G4 Stylus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12t_pro,Redmi Note 12T Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pad_6,Pad 6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_xl,Pixel XL
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3310_3g,3310 3G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a25,Galaxy A25
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m04,Galaxy M04
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_13_5g,Redmi 13 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p_smart_s,P Smart S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q31,Q31
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_6_plus,iPhone 6 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pura_70_pro,Pura 70 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylo_3_plus,Stylo 3 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v35_thinq,V35 ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c10,C10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g4_beat,G4 Beat
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8_se,nova 8 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#t20,T20
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_c51,Poco C51
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_c55,Galaxy C55
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_11__2022_,iPad Pro 11 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a24_4g,Galaxy A24 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#candy,Candy
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2_3,2.3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w41_,W41+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m5,Poco M5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105__2019_,105 (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#13t,13T
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_6s_plus,iPhone 6s Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a05s,Galaxy A05s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_12c,Redmi 12C
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a23_5g,Galaxy A23 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini__2019_,iPad mini (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a12__india_,Galaxy A12 (India)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_10,nova 10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_x5_pro,Poco X5 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a13,Galaxy A13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#t10,T10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ray,Ray
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#black_shark_5,Black Shark 5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylo_5,Stylo 5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#v20,V20
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m12,Galaxy M12
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k70_ultra,Redmi K70 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s24_fe,Galaxy S24 FE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m31_prime,Galaxy M31 Prime
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a33_5g,Galaxy A33 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_6,iPhone 6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5310__2024_,5310 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8i,nova 8i
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#150__2020_,150 (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g8x_thinq,G8X ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g8_thinq,G8 ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#l_prime,L Prime
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a13__sm_a137_,Galaxy A13 (SM-A137)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k42,K42
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_6a,Pixel 6a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p_smart_2020,P smart 2020
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c1_2nd_edition,C1 2nd Edition
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m6,Poco M6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13,Redmi Note 13
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12i,nova 12i
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_50_rs_porsche_design,Mate 50 RS Porsche Design
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_discovery,Redmi Note 12 Discovery
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pocket_s,Pocket S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k20_plus,K20 plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g5,G5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#velvet_5g,Velvet 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3310_4g,3310 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k30__2019_,K30 (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_2,Pixel 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m53,Galaxy M53
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2720_flip,2720 Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k71,K71
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k7,K7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_2_wi_fi,iPad 2 Wi-Fi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x30,X30
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g5_se,G5 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_13_pro,iPhone 13 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_1_plus,3.1 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c200,C200
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#spirit,Spirit
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p40_lite_5g,P40 lite 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_x5,Mate X5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_9_pro_xl,Pixel 9 Pro XL
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_12_9__2015_,iPad Pro 12.9 (2015)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_3_wi_fi,iPad 3 Wi-Fi
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a14,Galaxy A14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_11__2018_,iPad Pro 11 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pad_6_max_14,Pad 6 Max 14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f41,Galaxy F41
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c30,C30
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c21_plus,C21 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_12_9__2021_,iPad Pro 12.9 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8_1__nokia_x7_,8.1 (Nokia X7)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s9_,Galaxy Tab S9+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_xcover7,Galaxy XCover7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini__2024_,iPad mini (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12_pro,nova 12 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#230__2024_,230 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_c65,Poco C65
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2,2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g4_dual,G4 Dual
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_fold,Pixel Fold
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air_2,iPad Air 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_11_pro_max,iPhone 11 Pro Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105_4g,105 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air__2019_,iPad Air (2019)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k50,K50
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#106_4g__2023_,106 4G (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_10_youth,nova 10 Youth
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6,6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#12_lite,12 Lite
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_5g,MatePad 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#wine_smart,Wine Smart
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8,nova 8
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c100,C100
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_13__2024_,iPad Pro 13 (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2660_flip,2660 Flip
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#y5p,Y5p
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k8__2017_,K8 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_12_9__2017_,iPad Pro 12.9 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_pro_10_8__2021_,MatePad Pro 10.8 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w30_pro,W30 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m13__india_,Galaxy M13 (India)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#225_4g,225 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105___2022_,105+ (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p40_4g,P40 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a06,Galaxy A06
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ultra_tab,Ultra Tab
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w10,W10
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12r,Redmi Note 12R
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_power_3,X power 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini_wi_fi___cellular,iPad mini Wi-Fi + Cellular
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12s,nova 12s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g310,G310
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m32,Galaxy M32
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_13c,Redmi 13C
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#110__2022_,110 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_14,iPhone 14
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_a8_10_5__2021_,Galaxy Tab A8 10.5 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#8_v_5g_uw,8 V 5G UW
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylus_2_plus,Stylus 2 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_flip6,Galaxy Z Flip6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#222_dual_sim,222 Dual SIM
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3310__2017_,3310 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#12t_pro,12T Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_iii_8_0_fhd,G Pad III 8.0 FHD
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6_2,6.2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#l60,L60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#stylo_6,Stylo 6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a02s,Galaxy A02s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pura_70_pro_,Pura 70 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_fold5,Galaxy Z Fold5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a32_5g,Galaxy A32 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_11__2023_,MatePad 11 (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_tablet_2,Enjoy Tablet 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#tribute_empire,Tribute Empire
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_7_5g,nova 7 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a14_5g,Galaxy A14 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a03,Galaxy A03
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_ii_10_1,G Pad II 10.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#14t,14T
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c20,C20
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#folder_2,Folder 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_air__2024_,MatePad Air (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s21_5g,Galaxy S21 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k4__2017_,K4 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_turbo,Redmi Note 12 Turbo
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_2_cdma,iPad 2 CDMA
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_10z,nova 10z
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nexus_5x,Nexus 5X
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m4_5g__india_,Poco M4 5G (India)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_16_plus,iPhone 16 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_50e,Mate 50E
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#800_tough,800 Tough
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#12t,12T
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q70,Q70
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#7_2,7.2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_11,nova 11
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_7,iPhone 7
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_5c,iPhone 5c
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_11,iPhone 11
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k30,K30
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_15_plus,iPhone 15 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c02,C02
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13r,Redmi Note 13R
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a22,Galaxy A22
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a22_5g,Galaxy A22 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_4_wi_fi___cellular,iPad 4 Wi-Fi + Cellular
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#216,216
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f14_4g,Galaxy F14 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#215,215
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m32_5g,Galaxy M32 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini_4__2015_,iPad mini 4 (2015)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_7_pro_5g,nova 7 Pro 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k52,K52
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pad_6s_pro_12_4,Pad 6S Pro 12.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p50,P50
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_10_5g,Redmi 10 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w31_,W31+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_air,iPad Air
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_fold4,Galaxy Z Fold4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#110_4g,110 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c3,C3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m13_5g,Galaxy M13 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m21_2021,Galaxy M21 2021
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12_ultra,nova 12 Ultra
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3_1_a,3.1 A
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_3a,Pixel 3a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a3,Redmi A3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a52s_5g,Galaxy A52s 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q_stylus,Q Stylus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#2_2,2.2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g2_lite,G2 Lite
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40_pro_,Mate 40 Pro+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_y70_plus,nova Y70 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_4_cdma,iPhone 4 CDMA
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#220_4g,220 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k60e,Redmi K60E
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p50_pocket,P50 Pocket
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f15,Galaxy F15
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_se__2020_,iPhone SE (2020)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_m5s,Poco M5s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13_pro,Redmi Note 13 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#235_4g__2024_,235 4G (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_wi_fi___3g,iPad Wi-Fi + 3G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_4,Pixel 4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x71,X71
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_12_pro_max,iPhone 12 Pro Max
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_f5_pro,Poco F5 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k92_5g,K92 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c12_pro,C12 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40,Mate 40
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f62,Galaxy F62
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s23_fe,Galaxy S23 FE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_7a,Pixel 7a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_12_se,nova 12 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#3,3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_6,Pixel 6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#220_4g__2024_,220 4G (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8_se_youth,nova 8 SE Youth
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s20_fe_5g,Galaxy S20 FE 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_f4,Poco F4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_4a_5g,Pixel 4a 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12__china_,Redmi Note 12 (China)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5_3,5.3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a23,Galaxy A23
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k61,K61
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#12s_pro,12S Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_screen,X screen
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pocket_2,Pocket 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13__china_,Redmi Note 13 (China)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_ii_8_0_lte,G Pad II 8.0 LTE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_tab_s7_fe,Galaxy Tab S7 FE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_10_2__2021_,iPad 10.2 (2021)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_10_5__2017_,iPad Pro 10.5 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#tribute,Tribute
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g3_dual_lte,G3 Dual-LTE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k4,K4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q9,Q9
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_16_pro,iPhone 16 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p_smart_2021,P smart 2021
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_pad_pro,Redmi Pad Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_13c_5g,Redmi 13C 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_60,Enjoy 60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k7__2017_,K7 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_13_pro_4g,Redmi Note 13 Pro 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c22,C22
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q8__2018_,Q8 (2018)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#y7a,Y7a
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40e_4g,Mate 40E 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#n1,N1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s21__5g,Galaxy S21+ 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k3__2017_,K3 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#q8__2017_,Q8 (2017)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k50i,Redmi K50i
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_8_plus,iPhone 8 Plus
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a04s,Galaxy A04s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_8_pro_4g,nova 8 Pro 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#6300_4g,6300 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#4_2,4.2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a32,Galaxy A32
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_12_pro,iPhone 12 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_pro_speed,Redmi Note 12 Pro Speed
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#p60,P60
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g7_fit,G7 Fit
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_a04e,Galaxy A04e
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a3_pro,Redmi A3 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_14_pro,Redmi Note 14 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_10e,Enjoy 10e
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_iv_8_0_fhd,G Pad IV 8.0 FHD
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#xr20,XR20
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#130__2023_,130 (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_flip4,Galaxy Z Flip4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#c2_tava,C2 Tava
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s20_fe,Galaxy S20 FE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_9_se,nova 9 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#w30,W30
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#14_pro,14 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#5_1,5.1
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_60_pro,Mate 60 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k70_pro,Redmi K70 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_m33,Galaxy M33
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g7_thinq,G7 ThinQ
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_8_pro,Pixel 8 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_k40s,Redmi K40S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_stylo,G Stylo
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pad_5_pro_12_4,Pad 5 Pro 12.4
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_pro_12_9__2022_,iPad Pro 12.9 (2022)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#enjoy_70z,Enjoy 70z
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#poco_x6,Poco X6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#215_dual_sim,215 Dual SIM
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_6s,iPhone 6s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#matepad_se,MatePad SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k50s,K50S
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_f02s,Galaxy F02s
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_pad_se,Redmi Pad SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#mate_40_pro,Mate 40 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g_pad_iii_10_1_fhd,G Pad III 10.1 FHD
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#215_4g,215 4G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_se,iPhone SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_note_12_pro,Redmi Note 12 Pro
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#pixel_4_xl,Pixel 4 XL
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_z_flip5,Galaxy Z Flip5
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini_3,iPad mini 3
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_cam,X cam
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#215_4g__2024_,215 4G (2024)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#galaxy_s21_ultra_5g,Galaxy S21 Ultra 5G
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#x_power2,X power2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ipad_mini_2,iPad mini 2
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#105_4g__2023_,105 4G (2023)
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g6,G6
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#nova_7_se,nova 7 SE
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#k62,K62
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#125,125
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#u,U
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#redmi_a1_,Redmi A1+
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#g42,G42
+http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#iphone_15,iPhone 15
