@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl/"
+     xml:base="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:terms="http://purl.org/dc/terms/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl">
+        <owl:versionIRI rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl/0.0.1"/>
+        <terms:license>http://creativecommons.org/licenses/by/4.0/</terms:license>
+    </owl:Ontology>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/license"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#hasBattery">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isBatteryOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Battery"/>
+        <rdfs:comment>has battery</rdfs:comment>
+        <rdfs:label>hasBattery</rdfs:label>
+    </owl:ObjectProperty>    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#hasBrand">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isBrandOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand"/>
+        <rdfs:comment>has brand</rdfs:comment>
+        <rdfs:label>hasBrand</rdfs:label>
+    </owl:ObjectProperty>    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#hasCPU">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isCPUOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU"/>
+        <rdfs:comment>has CPU</rdfs:comment>
+        <rdfs:label>hasCPU</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#hasCamera">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isCameraOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+        <rdfs:comment>has camera</rdfs:comment>
+        <rdfs:label>hasCamera</rdfs:label>
+    </owl:ObjectProperty>    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#hasOS">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isOSOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#OS"/>
+        <rdfs:comment>has OS</rdfs:comment>
+        <rdfs:label>hasOS</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#hasScreen">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isScreenOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen"/>
+        <rdfs:comment>has screen</rdfs:comment>
+        <rdfs:label>hasScreen</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isBatteryOf">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Battery"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>is battery of</rdfs:comment>
+        <rdfs:label>isBatteryOf</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isBrandOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>brand of</rdfs:comment>
+        <rdfs:label>isBrandOf</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isCPUOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>CPU of</rdfs:comment>
+        <rdfs:label>isCPUOf</rdfs:label>
+    </owl:ObjectProperty>    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isCameraOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>camera of</rdfs:comment>
+        <rdfs:label>isCameraOf</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isOSOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#OS"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>OS of</rdfs:comment>
+        <rdfs:label>isOSOf</rdfs:label>
+    </owl:ObjectProperty>    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#isScreenOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>screen of</rdfs:comment>
+        <rdfs:label>isScreenOf</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#arch">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>architecture (x86, ARM)</rdfs:comment>
+        <rdfs:label>arch</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#capacity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Battery"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>capacity of battery, ...</rdfs:comment>
+        <rdfs:label>capacity</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#charge">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Battery"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>charge of battery</rdfs:comment>
+        <rdfs:label>charge</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#parameter">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>clock speed and number of core</rdfs:comment>
+        <rdfs:label>parameter</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#country">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>country name</rdfs:comment>
+        <rdfs:label>country</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#features">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>features of component</rdfs:comment>
+        <rdfs:label>features</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#foundDate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+        <rdfs:comment>found date</rdfs:comment>
+        <rdfs:label>foundDate</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#name">
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#OS"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>name of individual</rdfs:comment>
+        <rdfs:label>name</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#ramSize">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>size of RAM</rdfs:comment>
+        <rdfs:label>ramSize</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#releaseDate">
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#OS"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+        <rdfs:comment>release date</rdfs:comment>
+        <rdfs:label>releaseDate</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#resolution">
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>resolution (inches, pixels)</rdfs:comment>
+        <rdfs:label>resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#simType">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>SIM type of smartphone</rdfs:comment>
+        <rdfs:label>simType</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#size">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>size of component</rdfs:comment>
+        <rdfs:label>size</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#storageCapacity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>storage capacity</rdfs:comment>
+        <rdfs:label>storageCapacity</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#type">
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+                    <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>type of component</rdfs:comment>
+        <rdfs:label>type</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#video">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>video resolution of camera</rdfs:comment>
+        <rdfs:label>video</rdfs:label>
+    </owl:DatatypeProperty>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Battery">
+        <rdfs:comment>battery of smartphone</rdfs:comment>
+        <rdfs:label>Battery</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand">
+        <rdfs:comment>brand of smart phone and its components</rdfs:comment>
+        <rdfs:label>Brand</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU">
+        <rdfs:comment>central processor unit</rdfs:comment>
+        <rdfs:label>CPU</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera">
+        <rdfs:comment>camera of smart phone</rdfs:comment>
+        <rdfs:label>Camera</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#FrontCamera">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+        <rdfs:comment>front cam of smartphone</rdfs:comment>
+        <rdfs:label>FrontCamera</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#MainCamera">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+        <rdfs:comment>main cam of smartphone</rdfs:comment>
+        <rdfs:label>MainCamera</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#OS">
+        <rdfs:comment>operation system</rdfs:comment>
+        <rdfs:label>OS</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen">
+        <rdfs:comment>screen of smart phone</rdfs:comment>
+        <rdfs:label>Screen</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Tablet">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        <rdfs:comment>the tablet</rdfs:comment>
+        <rdfs:label>Tablet</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone">
+        <rdfs:comment>smart phone</rdfs:comment>
+        <rdfs:label>SmartPhone</rdfs:label>
+    </owl:Class>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Battery"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Brand"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#CPU"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Camera"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#OS"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#Screen"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/hust/master/2024/10/ontologies/smartphone.owl#SmartPhone"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
